@@ -34,7 +34,7 @@ public class UploadImageActivity extends Activity implements
     private static final String[] FILE_EXTENSIONS = { "bmp", "gif", "jpeg",
             "jpg", "png" };
 
-    private static final String REQUEST_URL = "http://endlesscheng.sinaapp.com/books_management/upload-file";
+    private static final String REQUEST_URL = "http://endlesscheng.sinaapp.com/game/upload-file";
     private static final String FIELD_NAME = "docfile";
 
     private Button mSelectImageButton;
