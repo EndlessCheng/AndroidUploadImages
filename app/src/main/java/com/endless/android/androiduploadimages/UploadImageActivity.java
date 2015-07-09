@@ -145,3 +145,4 @@ public class UploadImageActivity extends Activity implements
         dialog.show();
     }
 }
+ 
